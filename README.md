@@ -1,0 +1,2 @@
+# csoportt
+csoportmunkához.
